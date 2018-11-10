@@ -8,7 +8,7 @@ This is a sample of data science projects that have been conducted in various la
       
 
 # ARIMAX
-Times series forecasting with independent predictors 
+[ARIMAX Example](arimax.rmd) 
 
 # Random Forest 
 
