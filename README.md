@@ -1,5 +1,5 @@
 # Time Series
-a collection of data science and statistical analysis projects
+# a collection of data science and statistical analysis projects
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
