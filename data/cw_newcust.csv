@@ -1,0 +1,501 @@
+credit_appl,account_balance,duration_credit_month,payment_status,purpose,credit_amount,value_savings_stocks,length_current_employment,installment_per_cent,Most_valuable_asset_available,age_years,type_of_apartment,num_credits_at_bank
+,No Account,9,No problems,Home Related,2799,None,< 1yr,2,1,36,1,More than 1
+,No Account,12,No problems,Home Related,2122,None,< 1yr,3,1,39,1,More than 1
+,No Account,24,Paid Up,Home Related,3758,100 - 1000,< 1yr,1,4,23,1,1
+,No Account,11,No problems,Home Related,3905,None,< 1yr,2,1,36,1,More than 1
+,No Account,6,No problems,Home Related,1957,None,1 - 4yrs,1,3,31,2,1
+,No Account,6,Paid Up,Home Related,2647,100 - 1000,< 1yr,2,1,44,1,1
+,No Account,36,No problems,Home Related,2337,None,4 - 7yrs,4,1,36,2,1
+,Some Balance,11,No problems,Home Related,7228,None,< 1yr,1,2,39,2,More than 1
+,No Account,36,Paid Up,Home Related,2384,None,< 1yr,4,4,33,1,1
+,No Account,11,No problems,Home Related,4771,None,1 - 4yrs,2,2,51,2,1
+,Some Balance,15,Paid Up,Home Related,3556,100 - 1000,< 1yr,3,4,29,2,1
+,Some Balance,42,No problems,New Car,4796,None,4 - 7yrs,4,4,56,3,1
+,Some Balance,36,No problems,Home Related,6614,None,4 - 7yrs,4,3,34,2,More than 1
+,No Account,15,Paid Up,Home Related,1721,None,< 1yr,2,1,36,2,1
+,No Account,6,No problems,Home Related,860,None,4 - 7yrs,1,4,39,2,More than 1
+,Some Balance,12,No problems,Home Related,1495,None,4 - 7yrs,4,1,38,2,More than 1
+,Some Balance,12,No problems,Home Related,1934,None,4 - 7yrs,2,4,26,2,More than 1
+,Some Balance,18,Paid Up,New Car,3378,100 - 1000,< 1yr,2,2,31,2,1
+,No Account,24,Paid Up,Home Related,1755,None,4 - 7yrs,4,1,58,2,1
+,No Account,18,Paid Up,Home Related,1239,100 - 1000,< 1yr,4,4,61,3,1
+,Some Balance,24,Paid Up,Home Related,1474,< 100,< 1yr,4,1,33,2,1
+,Some Balance,12,Paid Up,Home Related,640,None,< 1yr,4,1,49,2,1
+,Some Balance,36,Paid Up,Home Related,3919,None,< 1yr,2,1,23,2,1
+,Some Balance,12,No problems,Home Related,2331,100 - 1000,4 - 7yrs,1,1,49,2,1
+,Some Balance,24,Paid Up,New Car,6313,100 - 1000,4 - 7yrs,3,3,41,2,1
+,Some Balance,12,No problems,Home Related,1655,None,4 - 7yrs,2,1,63,2,More than 1
+,No Account,15,Paid Up,Home Related,1053,None,< 1yr,4,1,27,2,1
+,Some Balance,12,No problems,Home Related,1163,100 - 1000,< 1yr,4,1,44,2,1
+,Some Balance,36,No problems,Home Related,10875,None,4 - 7yrs,2,3,45,2,More than 1
+,No Account,12,No problems,Home Related,1344,None,< 1yr,4,1,43,2,More than 1
+,Some Balance,6,No problems,Home Related,1237,< 100,< 1yr,1,2,27,2,More than 1
+,Some Balance,12,Paid Up,Home Related,3077,None,< 1yr,2,3,52,2,1
+,Some Balance,24,Paid Up,Home Related,2284,None,1 - 4yrs,4,3,28,2,1
+,No Account,12,Paid Up,Home Related,1567,None,< 1yr,1,3,22,2,1
+,Some Balance,24,No problems,Home Related,2032,None,4 - 7yrs,4,4,60,3,More than 1
+,No Account,21,No problems,Home Related,1602,None,4 - 7yrs,4,3,30,2,More than 1
+,Some Balance,15,Paid Up,Home Related,1979,100 - 1000,4 - 7yrs,4,3,35,2,1
+,Some Balance,36,No problems,Home Related,3342,100 - 1000,4 - 7yrs,4,3,51,2,1
+,No Account,18,Paid Up,Home Related,5866,< 100,< 1yr,2,3,30,2,More than 1
+,Some Balance,15,No problems,New Car,2360,100 - 1000,< 1yr,2,3,36,2,1
+,No Account,12,Paid Up,Home Related,3651,100 - 1000,< 1yr,1,2,31,2,1
+,No Account,18,No problems,Used Car,6361,None,4 - 7yrs,2,4,41,2,1
+,Some Balance,27,No problems,Used Car,4526,100 - 1000,< 1yr,4,1,32,2,More than 1
+,No Account,9,Paid Up,Used Car,2136,None,< 1yr,3,1,25,2,1
+,Some Balance,24,No problems,Used Car,3777,100 - 1000,< 1yr,4,1,40,2,1
+,No Account,15,Paid Up,Home Related,806,None,< 1yr,4,2,22,2,1
+,No Account,24,No problems,Home Related,4712,100 - 1000,< 1yr,4,2,34,2,More than 1
+,Some Balance,12,No problems,Home Related,1412,None,< 1yr,4,1,29,2,More than 1
+,Some Balance,24,Paid Up,Home Related,1533,None,< 1yr,4,3,38,2,1
+,No Account,15,Paid Up,Home Related,3959,None,< 1yr,3,2,29,2,1
+,No Account,6,Paid Up,Used Car,428,None,4 - 7yrs,2,2,49,2,1
+,No Account,12,No problems,Home Related,2366,100 - 1000,1 - 4yrs,3,3,36,2,1
+,No Account,18,Paid Up,Home Related,6260,None,1 - 4yrs,3,1,28,1,1
+,Some Balance,24,Paid Up,New Car,2603,100 - 1000,< 1yr,2,3,28,1,1
+,Some Balance,24,Paid Up,Used Car,3062,100 - 1000,4 - 7yrs,4,4,32,1,1
+,No Account,36,Paid Up,Home Related,4795,None,< 1yr,4,4,30,2,1
+,Some Balance,36,No problems,New Car,5842,None,4 - 7yrs,2,2,35,2,More than 1
+,Some Balance,15,Paid Up,Home Related,1213,100 - 1000,4 - 7yrs,4,2,47,2,1
+,Some Balance,15,Paid Up,Home Related,874,100 - 1000,< 1yr,4,1,24,2,1
+,Some Balance,18,Paid Up,Home Related,1820,None,< 1yr,2,2,30,2,1
+,Some Balance,24,No problems,Home Related,3148,100 - 1000,< 1yr,3,3,31,2,More than 1
+,Some Balance,36,Paid Up,Home Related,3835,100 - 1000,4 - 7yrs,2,1,45,2,1
+,Some Balance,9,Paid Up,Home Related,3832,100 - 1000,4 - 7yrs,1,1,64,2,1
+,No Account,24,Paid Up,Home Related,5084,100 - 1000,4 - 7yrs,2,3,42,2,1
+,Some Balance,21,Paid Up,New Car,2476,100 - 1000,4 - 7yrs,4,1,46,2,1
+,No Account,24,Paid Up,New Car,2964,100 - 1000,4 - 7yrs,4,4,49,3,1
+,No Account,12,Paid Up,Used Car,1262,100 - 1000,4 - 7yrs,2,2,49,2,1
+,Some Balance,12,Paid Up,Home Related,1542,None,1 - 4yrs,2,3,36,2,1
+,Some Balance,12,some problems,Home Related,409,100 - 1000,< 1yr,3,1,42,1,More than 1
+,No Account,24,Paid Up,Home Related,3512,< 100,1 - 4yrs,2,3,38,2,More than 1
+,No Account,12,Paid Up,Home Related,1498,None,< 1yr,4,3,23,2,1
+,No Account,48,some problems,Home Related,6416,None,4 - 7yrs,4,4,59,1,1
+,No Account,12,No problems,Used Car,3617,None,4 - 7yrs,1,3,28,1,More than 1
+,Some Balance,12,No problems,Home Related,1291,None,< 1yr,4,2,35,2,More than 1
+,Some Balance,24,Paid Up,Used Car,3972,None,1 - 4yrs,2,2,25,1,1
+,Some Balance,15,Paid Up,Home Related,392,None,< 1yr,4,2,23,1,1
+,Some Balance,30,No problems,Home Related,5771,None,1 - 4yrs,4,3,25,2,More than 1
+,Some Balance,6,No problems,Home Related,1382,None,< 1yr,1,3,28,2,More than 1
+,Some Balance,12,Paid Up,Home Related,1297,None,< 1yr,3,1,23,1,1
+,Some Balance,12,Paid Up,Home Related,1963,None,1 - 4yrs,4,3,31,1,More than 1
+,No Account,12,No problems,New Car,1804,< 100,< 1yr,3,2,44,2,1
+,Some Balance,18,Paid Up,Home Related,1950,None,1 - 4yrs,4,3,34,2,More than 1
+,Some Balance,48,No problems,Home Related,12749,100 - 1000,1 - 4yrs,4,3,37,2,1
+,Some Balance,9,Paid Up,Home Related,1236,None,< 1yr,1,1,23,1,1
+,No Account,30,some problems,Home Related,8072,100 - 1000,< 1yr,2,3,25,2,More than 1
+,Some Balance,30,No problems,Home Related,2831,None,< 1yr,4,3,33,2,1
+,Some Balance,36,Paid Up,Home Related,5742,< 100,1 - 4yrs,2,3,31,2,More than 1
+,Some Balance,12,Paid Up,Home Related,2390,100 - 1000,4 - 7yrs,4,3,50,2,1
+,Some Balance,21,Paid Up,Home Related,2923,< 100,< 1yr,1,3,28,2,1
+,No Account,48,Paid Up,Home Related,8487,100 - 1000,1 - 4yrs,1,3,24,2,1
+,Some Balance,24,Paid Up,Home Related,2255,100 - 1000,< 1yr,4,2,54,2,1
+,Some Balance,18,No problems,Used Car,1817,None,< 1yr,4,4,28,2,More than 1
+,Some Balance,18,some problems,Home Related,1445,100 - 1000,1 - 4yrs,4,3,49,2,1
+,No Account,24,Paid Up,Used Car,7721,100 - 1000,< 1yr,1,2,30,2,1
+,No Account,21,Paid Up,Home Related,3763,100 - 1000,1 - 4yrs,2,1,24,2,1
+,No Account,15,Paid Up,Home Related,1444,100 - 1000,< 1yr,4,2,23,2,1
+,Some Balance,9,Paid Up,Home Related,2753,< 100,4 - 7yrs,3,3,35,2,1
+,No Account,24,some problems,Used Car,2483,100 - 1000,< 1yr,4,1,22,2,1
+,Some Balance,6,No problems,Home Related,1299,None,< 1yr,1,1,74,2,More than 1
+,Some Balance,10,Paid Up,Home Related,1287,100 - 1000,4 - 7yrs,4,2,45,2,1
+,No Account,18,some problems,Home Related,1940,None,< 1yr,3,4,36,3,1
+,Some Balance,24,No problems,New Car,4679,None,1 - 4yrs,3,3,35,2,More than 1
+,No Account,18,Paid Up,Used Car,2659,100 - 1000,< 1yr,4,3,28,2,1
+,Some Balance,14,No problems,Home Related,802,None,< 1yr,4,3,27,2,More than 1
+,Some Balance,21,Paid Up,Home Related,1572,100 - 1000,4 - 7yrs,4,1,36,2,1
+,Some Balance,6,some problems,Home Related,426,None,4 - 7yrs,4,3,39,2,1
+,No Account,30,Paid Up,New Car,3857,None,< 1yr,4,2,40,2,1
+,No Account,12,Paid Up,Home Related,685,None,1 - 4yrs,2,3,25,2,1
+,No Account,24,Paid Up,Home Related,1603,None,4 - 7yrs,4,3,55,2,1
+,Some Balance,4,Paid Up,Used Car,601,None,< 1yr,1,1,23,1,1
+,Some Balance,15,No problems,Home Related,1316,100 - 1000,< 1yr,2,2,47,2,More than 1
+,Some Balance,60,Paid Up,Home Related,10366,None,4 - 7yrs,2,2,42,2,1
+,Some Balance,18,Paid Up,Home Related,1568,< 100,< 1yr,3,2,24,1,1
+,Some Balance,18,No problems,Home Related,629,100 - 1000,4 - 7yrs,4,2,32,2,More than 1
+,Some Balance,6,some problems,Home Related,1750,100 - 1000,4 - 7yrs,2,2,45,2,1
+,Some Balance,24,Paid Up,New Car,3488,< 100,1 - 4yrs,3,3,23,2,1
+,No Account,15,Paid Up,Home Related,2631,< 100,< 1yr,3,1,25,2,1
+,Some Balance,21,Paid Up,New Car,5248,100 - 1000,< 1yr,1,3,26,2,1
+,No Account,18,No problems,Home Related,6204,None,< 1yr,2,1,44,2,1
+,Some Balance,12,Paid Up,Home Related,804,None,4 - 7yrs,4,3,38,2,1
+,No Account,15,No problems,Used Car,3643,None,4 - 7yrs,1,2,27,2,More than 1
+,Some Balance,10,No problems,Used Car,2146,None,< 1yr,1,1,23,1,More than 1
+,Some Balance,5,Paid Up,Home Related,3448,None,1 - 4yrs,1,1,74,2,1
+,Some Balance,15,Paid Up,Used Car,2708,None,< 1yr,2,2,27,2,More than 1
+,Some Balance,22,Paid Up,Home Related,2675,100 - 1000,4 - 7yrs,3,3,40,2,1
+,No Account,9,Paid Up,Home Related,2118,None,< 1yr,2,1,37,2,1
+,Some Balance,15,some problems,Home Related,1569,< 100,4 - 7yrs,4,3,34,2,1
+,Some Balance,36,No problems,Used Car,7678,100 - 1000,1 - 4yrs,2,3,40,2,More than 1
+,Some Balance,12,some problems,Home Related,3447,100 - 1000,< 1yr,4,1,35,2,1
+,Some Balance,15,Paid Up,Home Related,3568,None,4 - 7yrs,4,3,54,1,1
+,No Account,21,No problems,Home Related,3652,None,1 - 4yrs,2,2,27,2,More than 1
+,No Account,24,Paid Up,Home Related,3660,None,< 1yr,2,3,28,2,1
+,Some Balance,9,Paid Up,Home Related,1126,< 100,4 - 7yrs,2,1,49,2,1
+,Some Balance,6,No problems,Home Related,683,None,< 1yr,2,2,29,2,1
+,Some Balance,12,Paid Up,Used Car,2251,None,< 1yr,1,3,46,2,1
+,Some Balance,12,Paid Up,New Car,4675,100 - 1000,< 1yr,1,3,20,1,1
+,No Account,21,No problems,Home Related,2353,None,< 1yr,1,2,47,2,More than 1
+,Some Balance,6,Paid Up,Home Related,672,None,< 1yr,1,1,54,2,1
+,No Account,6,No problems,Home Related,338,100 - 1000,4 - 7yrs,4,3,52,2,More than 1
+,Some Balance,9,Paid Up,Home Related,2507,100 - 1000,4 - 7yrs,2,4,51,3,1
+,Some Balance,15,No problems,Home Related,1478,None,< 1yr,4,1,33,2,More than 1
+,Some Balance,12,No problems,Home Related,3565,100 - 1000,< 1yr,2,2,37,2,More than 1
+,Some Balance,9,Paid Up,Used Car,2301,< 100,< 1yr,2,2,22,1,1
+,Some Balance,6,No problems,Home Related,1743,< 100,< 1yr,1,1,34,2,More than 1
+,Some Balance,18,No problems,Home Related,2320,None,< 1yr,2,1,34,2,More than 1
+,Some Balance,24,Paid Up,Home Related,5152,None,1 - 4yrs,4,3,25,2,1
+,Some Balance,9,No problems,Home Related,3074,100 - 1000,< 1yr,1,1,33,2,More than 1
+,Some Balance,6,some problems,Home Related,783,100 - 1000,< 1yr,1,1,26,2,1
+,No Account,21,Paid Up,Home Related,2606,None,< 1yr,4,2,28,1,1
+,Some Balance,54,some problems,New Car,9436,100 - 1000,< 1yr,2,2,39,2,1
+,Some Balance,6,No problems,Home Related,250,100 - 1000,< 1yr,2,1,41,2,More than 1
+,No Account,6,Paid Up,Home Related,662,None,< 1yr,3,1,41,2,1
+,Some Balance,24,some problems,Home Related,1559,None,1 - 4yrs,4,3,40,2,1
+,Some Balance,12,Paid Up,Home Related,3016,None,< 1yr,3,3,24,2,1
+,Some Balance,6,some problems,Home Related,1204,< 100,< 1yr,4,4,35,1,1
+,Some Balance,10,Paid Up,Home Related,1597,100 - 1000,< 1yr,3,4,40,1,1
+,Some Balance,12,Paid Up,Home Related,2073,< 100,< 1yr,4,1,28,2,1
+,No Account,10,No problems,Used Car,2132,100 - 1000,< 1yr,2,1,27,1,More than 1
+,Some Balance,10,Paid Up,Home Related,1418,< 100,< 1yr,3,1,35,1,1
+,Some Balance,6,No problems,Home Related,1343,None,4 - 7yrs,1,1,46,2,More than 1
+,Some Balance,18,Paid Up,Home Related,2662,100 - 1000,1 - 4yrs,4,2,32,2,1
+,Some Balance,18,No problems,Home Related,6070,None,4 - 7yrs,3,3,33,2,More than 1
+,Some Balance,6,No problems,Home Related,1554,None,1 - 4yrs,1,3,24,1,More than 1
+,No Account,9,No problems,Home Related,1288,< 100,4 - 7yrs,3,1,48,2,More than 1
+,No Account,10,No problems,Home Related,1038,None,1 - 4yrs,4,2,49,2,More than 1
+,Some Balance,10,Paid Up,New Car,2848,< 100,< 1yr,1,1,32,2,1
+,Some Balance,12,Paid Up,New Car,1413,100 - 1000,1 - 4yrs,3,2,55,2,1
+,Some Balance,18,No problems,New Car,3229,100 - 1000,< 1yr,2,4,38,2,1
+,Some Balance,9,Paid Up,Home Related,3577,< 100,< 1yr,1,1,26,1,1
+,Some Balance,10,Paid Up,Home Related,1924,None,< 1yr,1,2,38,2,1
+,Some Balance,10,Paid Up,Home Related,727,100 - 1000,4 - 7yrs,4,4,46,3,1
+,Some Balance,10,No problems,Home Related,781,None,4 - 7yrs,4,4,63,3,More than 1
+,Some Balance,10,No problems,Used Car,2069,100 - 1000,< 1yr,2,3,26,2,More than 1
+,Some Balance,24,Paid Up,Home Related,1525,100 - 1000,1 - 4yrs,4,3,34,2,1
+,Some Balance,48,No problems,Home Related,7629,100 - 1000,4 - 7yrs,4,3,46,2,More than 1
+,No Account,12,No problems,Home Related,3499,None,< 1yr,3,1,29,2,More than 1
+,No Account,24,Paid Up,New Car,2924,None,< 1yr,3,4,63,2,1
+,Some Balance,10,No problems,Home Related,1231,None,4 - 7yrs,3,1,32,2,More than 1
+,Some Balance,15,No problems,Home Related,5045,100 - 1000,4 - 7yrs,1,3,59,2,1
+,Some Balance,12,No problems,Home Related,1255,None,4 - 7yrs,4,1,61,2,More than 1
+,Some Balance,12,some problems,Used Car,2759,None,4 - 7yrs,2,2,34,2,More than 1
+,No Account,15,Paid Up,Home Related,1403,None,< 1yr,2,3,28,1,1
+,No Account,24,Paid Up,Home Related,6568,None,< 1yr,2,3,21,2,1
+,No Account,24,No problems,New Car,7758,100 - 1000,4 - 7yrs,2,4,29,1,1
+,Some Balance,21,No problems,Used Car,1591,< 100,1 - 4yrs,4,1,34,2,More than 1
+,No Account,27,Paid Up,Home Related,3416,None,< 1yr,3,3,27,2,1
+,No Account,15,Paid Up,Home Related,1514,< 100,< 1yr,4,1,22,2,1
+,Some Balance,30,No problems,Home Related,6742,100 - 1000,1 - 4yrs,2,2,36,2,More than 1
+,No Account,9,Paid Up,Home Related,458,None,< 1yr,4,1,24,2,1
+,No Account,9,Paid Up,Used Car,918,None,< 1yr,4,2,30,2,1
+,No Account,24,Paid Up,New Car,2812,100 - 1000,4 - 7yrs,2,1,26,1,1
+,Some Balance,12,No problems,Home Related,1480,100 - 1000,< 1yr,2,4,66,3,More than 1
+,No Account,9,Paid Up,Home Related,1206,None,4 - 7yrs,4,1,25,2,1
+,Some Balance,12,Paid Up,Home Related,707,None,< 1yr,4,1,30,2,More than 1
+,No Account,12,Paid Up,Home Related,6078,None,1 - 4yrs,2,3,32,2,1
+,No Account,27,Paid Up,Home Related,2528,None,< 1yr,4,2,32,2,1
+,No Account,6,Paid Up,New Car,1352,100 - 1000,< 1yr,1,2,23,1,1
+,Some Balance,24,Paid Up,Home Related,3181,None,< 1yr,4,2,26,2,1
+,No Account,48,Paid Up,Home Related,5381,100 - 1000,< 1yr,3,4,40,3,1
+,No Account,18,Paid Up,Home Related,1913,100 - 1000,< 1yr,3,1,36,2,1
+,Some Balance,12,No problems,Home Related,976,100 - 1000,4 - 7yrs,4,3,35,2,More than 1
+,Some Balance,24,No problems,Home Related,2375,100 - 1000,< 1yr,4,3,44,2,More than 1
+,Some Balance,12,No problems,Home Related,522,100 - 1000,4 - 7yrs,4,2,42,2,More than 1
+,Some Balance,18,No problems,Home Related,1169,100 - 1000,< 1yr,4,2,29,2,More than 1
+,No Account,15,No problems,Used Car,1478,None,4 - 7yrs,4,3,44,2,More than 1
+,Some Balance,12,Paid Up,Home Related,776,None,< 1yr,4,1,28,2,1
+,No Account,16,No problems,Home Related,1175,None,< 1yr,2,3,68,3,More than 1
+,Some Balance,12,Paid Up,Home Related,2133,100 - 1000,4 - 7yrs,4,4,52,3,1
+,Some Balance,30,No problems,Home Related,4530,None,1 - 4yrs,4,3,26,1,1
+,No Account,18,No problems,Home Related,1887,100 - 1000,< 1yr,4,1,28,2,More than 1
+,Some Balance,12,No problems,Home Related,1264,100 - 1000,4 - 7yrs,4,4,57,1,1
+,Some Balance,15,No problems,Home Related,1532,< 100,< 1yr,4,3,31,2,1
+,Some Balance,6,No problems,Home Related,935,None,< 1yr,3,1,24,2,1
+,No Account,27,No problems,Home Related,2442,None,4 - 7yrs,4,3,43,2,More than 1
+,No Account,39,No problems,Used Car,14179,100 - 1000,1 - 4yrs,4,2,30,2,More than 1
+,Some Balance,12,No problems,Home Related,618,None,4 - 7yrs,4,1,56,2,1
+,Some Balance,12,Paid Up,Used Car,1574,None,< 1yr,4,1,50,2,1
+,Some Balance,36,Paid Up,New Car,4686,None,< 1yr,2,4,32,3,1
+,No Account,9,Paid Up,Home Related,790,100 - 1000,< 1yr,4,1,66,2,1
+,No Account,14,Paid Up,Home Related,3973,None,< 1yr,1,4,22,3,1
+,No Account,20,No problems,Home Related,2629,None,< 1yr,2,3,29,2,More than 1
+,No Account,18,Paid Up,Home Related,1941,100 - 1000,< 1yr,4,2,35,2,1
+,No Account,24,No problems,Used Car,2333,100 - 1000,< 1yr,4,2,29,2,1
+,Some Balance,12,Paid Up,New Car,2445,100 - 1000,< 1yr,2,3,26,1,1
+,No Account,20,Paid Up,New Car,6468,100 - 1000,< 1yr,1,1,60,2,1
+,Some Balance,15,Paid Up,New Car,3812,< 100,< 1yr,1,3,23,2,1
+,No Account,12,Paid Up,New Car,2028,100 - 1000,< 1yr,4,3,30,2,1
+,Some Balance,15,Paid Up,Home Related,5324,100 - 1000,4 - 7yrs,1,4,35,3,1
+,Some Balance,12,Paid Up,Home Related,1393,None,4 - 7yrs,4,2,47,2,More than 1
+,Some Balance,36,Paid Up,Home Related,7409,100 - 1000,4 - 7yrs,3,2,37,2,More than 1
+,Some Balance,15,Paid Up,Used Car,2186,100 - 1000,1 - 4yrs,1,1,33,1,1
+,Some Balance,18,Paid Up,Used Car,3422,None,4 - 7yrs,4,2,47,2,More than 1
+,No Account,18,Paid Up,Home Related,3872,None,< 1yr,2,3,67,2,1
+,Some Balance,27,Paid Up,Home Related,5190,100 - 1000,4 - 7yrs,4,2,48,2,More than 1
+,No Account,18,Paid Up,Used Car,3001,None,1 - 4yrs,2,1,40,1,1
+,Some Balance,24,No problems,Home Related,3863,None,< 1yr,1,4,32,3,1
+,Some Balance,12,No problems,Used Car,1592,100 - 1000,1 - 4yrs,3,2,35,2,1
+,Some Balance,18,No problems,Used Car,3780,None,< 1yr,3,3,35,2,More than 1
+,Some Balance,12,Paid Up,Home Related,1076,None,< 1yr,2,1,26,2,1
+,Some Balance,18,Paid Up,Home Related,2051,None,< 1yr,4,1,33,2,1
+,No Account,18,some problems,Home Related,3104,None,1 - 4yrs,3,2,31,2,1
+,Some Balance,24,No problems,Home Related,2611,None,4 - 7yrs,4,1,46,2,More than 1
+,No Account,12,Paid Up,Home Related,1680,100 - 1000,4 - 7yrs,3,1,35,2,1
+,Some Balance,6,Paid Up,Home Related,1595,None,1 - 4yrs,3,2,51,2,1
+,Some Balance,24,No problems,Home Related,2058,None,< 1yr,4,1,33,2,More than 1
+,Some Balance,24,Paid Up,New Car,7814,None,1 - 4yrs,3,3,38,2,1
+,Some Balance,6,No problems,Home Related,1740,None,4 - 7yrs,2,1,30,1,More than 1
+,Some Balance,24,No problems,New Car,6842,100 - 1000,< 1yr,2,2,46,2,More than 1
+,Some Balance,24,No problems,Used Car,5150,None,4 - 7yrs,4,3,33,2,1
+,Some Balance,6,No problems,Home Related,2080,100 - 1000,< 1yr,1,3,24,2,1
+,No Account,24,No problems,Home Related,3878,< 100,< 1yr,4,3,37,2,1
+,Some Balance,36,Paid Up,Home Related,1819,None,< 1yr,4,4,37,3,1
+,Some Balance,36,No problems,Used Car,7127,None,< 1yr,2,2,23,1,More than 1
+,Some Balance,36,Paid Up,Used Car,3349,None,< 1yr,4,3,28,2,1
+,Some Balance,36,Paid Up,Used Car,10974,None,< 1yr,4,3,26,2,More than 1
+,Some Balance,6,Paid Up,Home Related,518,None,< 1yr,3,1,29,2,1
+,Some Balance,18,Paid Up,Home Related,1126,100 - 1000,< 1yr,4,1,21,1,1
+,Some Balance,18,Paid Up,Home Related,1505,None,< 1yr,4,4,32,3,1
+,Some Balance,4,No problems,Home Related,1503,None,1 - 4yrs,2,1,42,2,More than 1
+,Some Balance,12,Paid Up,Home Related,1881,None,< 1yr,2,3,44,1,1
+,No Account,18,No problems,Home Related,1880,None,1 - 4yrs,4,2,32,2,More than 1
+,No Account,18,Paid Up,Home Related,2389,None,< 1yr,4,3,27,2,1
+,Some Balance,4,No problems,Home Related,1455,None,1 - 4yrs,2,1,42,2,More than 1
+,No Account,18,some problems,Used Car,3244,None,< 1yr,1,3,33,2,More than 1
+,No Account,48,Paid Up,Home Related,3979,100 - 1000,1 - 4yrs,4,3,41,2,More than 1
+,No Account,12,Paid Up,Used Car,1922,None,< 1yr,4,2,37,2,1
+,No Account,18,No problems,Used Car,1295,None,< 1yr,4,2,27,2,More than 1
+,No Account,30,Paid Up,Home Related,1715,100 - 1000,< 1yr,4,3,26,2,1
+,Some Balance,10,No problems,Home Related,1347,100 - 1000,1 - 4yrs,4,2,27,2,More than 1
+,No Account,12,Paid Up,Home Related,1007,100 - 1000,< 1yr,4,1,22,2,1
+,Some Balance,12,No problems,Home Related,2096,None,1 - 4yrs,2,1,49,2,1
+,Some Balance,12,Paid Up,Home Related,1101,None,< 1yr,3,1,27,2,More than 1
+,Some Balance,10,Paid Up,Home Related,894,100 - 1000,1 - 4yrs,4,2,40,2,1
+,No Account,48,some problems,Home Related,8358,100 - 1000,< 1yr,1,3,30,2,More than 1
+,No Account,60,Paid Up,Home Related,7408,< 100,< 1yr,4,2,24,2,1
+,No Account,36,No problems,Home Related,9857,< 100,1 - 4yrs,1,2,31,2,More than 1
+,Some Balance,12,No problems,Used Car,1935,None,4 - 7yrs,4,1,43,2,More than 1
+,Some Balance,48,Paid Up,Home Related,10222,100 - 1000,1 - 4yrs,4,3,37,2,1
+,Some Balance,36,Paid Up,Home Related,9055,100 - 1000,< 1yr,2,4,35,3,1
+,No Account,30,some problems,Used Car,3496,100 - 1000,< 1yr,4,3,34,2,1
+,No Account,36,Paid Up,Used Car,3446,None,4 - 7yrs,4,3,42,2,1
+,No Account,12,Paid Up,Home Related,684,None,< 1yr,4,3,40,1,1
+,No Account,24,Paid Up,Used Car,2359,< 100,< 1yr,1,2,33,2,1
+,Some Balance,24,Paid Up,Home Related,3621,< 100,4 - 7yrs,2,3,31,2,More than 1
+,No Account,12,Paid Up,Home Related,741,< 100,< 1yr,4,2,22,2,1
+,No Account,12,Paid Up,Used Car,7865,None,4 - 7yrs,4,4,53,3,1
+,No Account,18,No problems,Home Related,5302,None,4 - 7yrs,2,4,36,3,More than 1
+,No Account,18,Paid Up,Home Related,3509,None,1 - 4yrs,4,1,25,2,1
+,No Account,12,Paid Up,Used Car,1657,None,< 1yr,2,1,27,2,1
+,No Account,36,No problems,Used Car,6229,None,< 1yr,4,4,23,1,More than 1
+,No Account,30,some problems,Used Car,4583,None,< 1yr,2,1,32,2,More than 1
+,No Account,36,No problems,Used Car,5371,None,< 1yr,3,2,28,2,More than 1
+,No Account,36,Paid Up,Used Car,2712,None,4 - 7yrs,2,2,41,2,1
+,No Account,6,No problems,Used Car,1050,None,< 1yr,4,2,35,2,More than 1
+,No Account,6,No problems,Home Related,609,None,1 - 4yrs,4,2,37,2,More than 1
+,No Account,24,Paid Up,Used Car,3069,< 100,4 - 7yrs,4,4,30,3,1
+,No Account,12,Paid Up,Home Related,836,< 100,< 1yr,4,2,23,2,1
+,No Account,15,Paid Up,Used Car,1845,None,< 1yr,4,2,46,1,1
+,No Account,24,Paid Up,New Car,6579,None,< 1yr,4,4,29,3,1
+,No Account,30,Paid Up,Used Car,3108,None,< 1yr,2,2,31,2,1
+,Some Balance,24,No problems,Home Related,6314,None,< 1yr,4,4,27,2,More than 1
+,No Account,12,Paid Up,Used Car,3590,None,< 1yr,2,2,29,2,1
+,No Account,6,No problems,Used Car,1872,None,< 1yr,4,4,36,3,More than 1
+,Some Balance,6,Paid Up,Home Related,1238,100 - 1000,< 1yr,4,2,36,2,1
+,No Account,12,Paid Up,Used Car,2578,None,< 1yr,3,4,55,3,1
+,No Account,15,No problems,Used Car,1433,None,< 1yr,4,2,25,1,More than 1
+,No Account,42,Paid Up,Used Car,7882,None,1 - 4yrs,2,2,45,3,1
+,No Account,24,Paid Up,Used Car,4169,None,< 1yr,4,2,28,2,1
+,No Account,36,Paid Up,Used Car,3959,None,< 1yr,4,2,30,2,1
+,No Account,36,Paid Up,Home Related,3249,None,1 - 4yrs,2,4,39,3,1
+,No Account,24,Paid Up,Used Car,3149,None,< 1yr,4,4,22,3,1
+,No Account,13,No problems,Home Related,1797,None,< 1yr,3,2,28,2,More than 1
+,No Account,20,No problems,Used Car,4272,None,4 - 7yrs,1,2,24,2,More than 1
+,No Account,24,No problems,New Car,2957,None,4 - 7yrs,4,2,63,2,More than 1
+,Some Balance,42,some problems,Home Related,6289,None,< 1yr,2,2,33,2,More than 1
+,No Account,36,Paid Up,Home Related,15857,None,< 1yr,2,3,43,2,1
+,Some Balance,24,No problems,Home Related,2223,< 100,4 - 7yrs,4,2,52,2,More than 1
+,No Account,30,No problems,Home Related,2503,< 100,4 - 7yrs,4,2,41,2,More than 1
+,No Account,6,Paid Up,Home Related,368,100 - 1000,4 - 7yrs,4,2,38,2,1
+,Some Balance,24,No problems,Home Related,2424,100 - 1000,4 - 7yrs,4,2,53,2,More than 1
+,No Account,18,No problems,Home Related,2427,100 - 1000,4 - 7yrs,4,2,42,2,More than 1
+,No Account,24,No problems,Home Related,1216,< 100,< 1yr,4,4,38,2,More than 1
+,No Account,6,Paid Up,Home Related,753,None,< 1yr,2,1,64,2,1
+,No Account,6,Paid Up,Home Related,590,None,< 1yr,3,1,26,2,1
+,No Account,8,No problems,Home Related,713,None,4 - 7yrs,4,1,47,2,More than 1
+,No Account,12,Paid Up,Home Related,1092,None,< 1yr,4,1,49,2,More than 1
+,No Account,7,Paid Up,Home Related,2329,None,< 1yr,1,1,45,2,1
+,No Account,13,No problems,Home Related,882,None,< 1yr,4,1,23,2,More than 1
+,No Account,7,Paid Up,Home Related,2415,None,< 1yr,3,1,34,2,1
+,No Account,13,Paid Up,Home Related,2101,None,< 1yr,2,2,23,2,1
+,No Account,18,Paid Up,Home Related,1113,None,< 1yr,4,1,26,2,1
+,Some Balance,6,No problems,Home Related,1323,< 100,4 - 7yrs,2,3,28,2,More than 1
+,No Account,15,No problems,Home Related,2728,100 - 1000,1 - 4yrs,4,1,35,2,More than 1
+,No Account,10,some problems,Home Related,1048,None,< 1yr,4,1,23,2,1
+,No Account,12,Paid Up,Home Related,1155,None,4 - 7yrs,3,1,40,2,More than 1
+,No Account,20,No problems,New Car,7057,100 - 1000,1 - 4yrs,3,2,36,1,More than 1
+,No Account,15,No problems,Home Related,1537,100 - 1000,4 - 7yrs,4,1,50,2,More than 1
+,No Account,12,Paid Up,Home Related,2214,None,< 1yr,4,2,24,2,1
+,Some Balance,24,No problems,Used Car,1585,None,1 - 4yrs,4,2,40,2,More than 1
+,No Account,10,Paid Up,Used Car,1521,None,< 1yr,4,3,31,2,1
+,No Account,36,some problems,Home Related,3990,100 - 1000,< 1yr,3,4,29,2,1
+,Some Balance,18,Paid Up,Used Car,3049,None,< 1yr,1,2,45,2,1
+,No Account,24,Paid Up,Home Related,1282,< 100,< 1yr,4,3,32,2,1
+,Some Balance,60,Paid Up,Home Related,10144,< 100,1 - 4yrs,2,1,21,2,1
+,No Account,12,Paid Up,Home Related,1168,None,< 1yr,4,1,27,2,1
+,Some Balance,12,Paid Up,Used Car,1768,None,< 1yr,3,1,24,1,1
+,Some Balance,60,No problems,Home Related,15653,None,1 - 4yrs,2,3,21,2,More than 1
+,No Account,36,Paid Up,New Car,8335,100 - 1000,4 - 7yrs,3,4,47,3,1
+,No Account,36,No problems,New Car,5800,None,< 1yr,3,3,34,2,More than 1
+,No Account,18,No problems,Home Related,8471,100 - 1000,< 1yr,1,3,23,1,More than 1
+,No Account,30,Paid Up,Used Car,3622,100 - 1000,4 - 7yrs,4,2,57,1,More than 1
+,No Account,6,No problems,Home Related,1169,100 - 1000,4 - 7yrs,4,1,67,2,More than 1
+,Some Balance,15,Paid Up,Home Related,1262,100 - 1000,1 - 4yrs,4,2,36,2,More than 1
+,No Account,42,No problems,Home Related,3394,None,< 1yr,4,3,65,2,More than 1
+,Some Balance,36,No problems,Home Related,6304,100 - 1000,4 - 7yrs,4,1,36,2,More than 1
+,Some Balance,6,Paid Up,Home Related,3518,None,< 1yr,2,2,26,1,1
+,No Account,72,Paid Up,Home Related,5595,< 100,< 1yr,2,3,24,2,1
+,Some Balance,21,No problems,New Car,2993,None,< 1yr,3,1,28,2,More than 1
+,Some Balance,36,No problems,New Car,8947,100 - 1000,1 - 4yrs,3,3,31,2,1
+,No Account,18,Paid Up,New Car,2779,None,< 1yr,1,3,21,1,1
+,No Account,42,some problems,New Car,9283,None,< 1yr,1,4,55,3,1
+,Some Balance,15,No problems,New Car,3368,100 - 1000,4 - 7yrs,3,4,23,1,More than 1
+,No Account,36,Paid Up,New Car,5493,None,4 - 7yrs,2,4,42,3,1
+,No Account,9,Paid Up,Home Related,1082,None,4 - 7yrs,4,3,37,2,More than 1
+,No Account,20,some problems,New Car,6148,< 100,4 - 7yrs,3,3,31,2,More than 1
+,Some Balance,12,Paid Up,Home Related,3059,100 - 1000,1 - 4yrs,2,1,61,2,1
+,No Account,24,Paid Up,Used Car,2996,100 - 1000,< 1yr,2,3,20,2,1
+,Some Balance,30,No problems,New Car,7596,100 - 1000,4 - 7yrs,1,3,63,2,More than 1
+,Some Balance,6,Paid Up,Used Car,1766,None,< 1yr,1,2,21,1,1
+,No Account,24,Paid Up,New Car,2760,100 - 1000,4 - 7yrs,4,4,36,3,1
+,No Account,9,Paid Up,Home Related,654,None,< 1yr,4,3,28,2,1
+,No Account,9,No problems,Home Related,1136,100 - 1000,4 - 7yrs,4,4,32,3,More than 1
+,No Account,24,No problems,Home Related,1199,None,4 - 7yrs,4,3,60,2,More than 1
+,No Account,12,some problems,Home Related,1082,None,< 1yr,4,3,48,2,More than 1
+,No Account,18,Paid Up,Home Related,2600,None,< 1yr,4,4,65,3,More than 1
+,Some Balance,21,some problems,Home Related,5003,100 - 1000,< 1yr,1,2,29,2,More than 1
+,Some Balance,24,No problems,Home Related,2538,None,4 - 7yrs,4,3,47,2,More than 1
+,Some Balance,9,Paid Up,Home Related,1478,None,1 - 4yrs,4,3,22,2,1
+,No Account,39,No problems,Home Related,4933,None,1 - 4yrs,2,1,25,2,More than 1
+,Some Balance,18,No problems,Home Related,1530,None,< 1yr,3,2,32,2,More than 1
+,No Account,15,Paid Up,Home Related,1275,100 - 1000,< 1yr,4,3,24,1,1
+,No Account,24,Paid Up,Home Related,1823,None,< 1yr,4,3,30,2,1
+,No Account,9,Paid Up,Home Related,1422,None,< 1yr,3,4,27,3,1
+,No Account,36,Paid Up,Home Related,9271,None,1 - 4yrs,2,3,24,2,1
+,No Account,6,No problems,Used Car,3384,None,< 1yr,1,1,44,1,1
+,No Account,18,No problems,Home Related,1245,None,< 1yr,4,3,33,2,1
+,Some Balance,15,Paid Up,Home Related,4623,< 100,< 1yr,3,2,40,2,1
+,No Account,30,No problems,Used Car,8386,None,1 - 4yrs,2,2,49,2,1
+,No Account,24,No problems,Home Related,1024,None,< 1yr,4,1,48,2,1
+,No Account,12,some problems,Home Related,2149,None,< 1yr,4,4,29,3,1
+,Some Balance,24,Paid Up,Home Related,2397,100 - 1000,4 - 7yrs,3,3,35,2,More than 1
+,No Account,6,some problems,Home Related,931,< 100,< 1yr,1,2,32,2,1
+,No Account,24,some problems,Used Car,6872,None,< 1yr,2,2,55,2,1
+,No Account,12,Paid Up,Home Related,795,None,< 1yr,4,2,53,2,1
+,No Account,36,some problems,Home Related,1953,None,4 - 7yrs,4,4,61,3,1
+,Some Balance,21,No problems,Home Related,2319,None,< 1yr,2,3,33,1,1
+,No Account,24,Paid Up,Home Related,915,100 - 1000,4 - 7yrs,4,3,29,2,1
+,No Account,24,Paid Up,Home Related,1381,100 - 1000,< 1yr,4,2,35,2,1
+,No Account,24,Paid Up,Home Related,1285,100 - 1000,1 - 4yrs,4,4,32,1,1
+,No Account,18,Paid Up,Home Related,1042,100 - 1000,< 1yr,4,2,33,2,1
+,No Account,24,Paid Up,Home Related,1207,None,< 1yr,4,2,24,1,1
+,No Account,18,some problems,Home Related,2278,< 100,< 1yr,3,3,28,2,More than 1
+,No Account,24,Paid Up,Used Car,3345,None,4 - 7yrs,4,2,39,1,1
+,No Account,6,some problems,Home Related,1198,None,4 - 7yrs,4,4,35,3,1
+,Some Balance,18,Paid Up,Home Related,1943,None,< 1yr,4,1,23,2,1
+,No Account,18,Paid Up,Home Related,3190,None,< 1yr,2,1,24,2,1
+,Some Balance,18,No problems,Used Car,1808,None,1 - 4yrs,4,1,22,2,1
+,No Account,8,Paid Up,Used Car,1237,None,< 1yr,3,1,24,2,1
+,No Account,48,Paid Up,Home Related,10961,100 - 1000,1 - 4yrs,1,4,27,2,More than 1
+,No Account,24,Paid Up,Home Related,1938,None,< 1yr,4,2,32,2,1
+,No Account,21,Paid Up,Home Related,1835,None,< 1yr,3,1,25,2,More than 1
+,No Account,24,No problems,Home Related,1659,None,< 1yr,4,3,29,1,1
+,No Account,6,No problems,Home Related,1209,None,< 1yr,4,2,47,2,1
+,No Account,48,some problems,Home Related,3844,< 100,1 - 4yrs,4,4,34,3,1
+,No Account,12,No problems,Home Related,4843,None,4 - 7yrs,3,2,43,1,More than 1
+,Some Balance,36,No problems,Home Related,4463,None,< 1yr,4,3,26,2,More than 1
+,No Account,24,Paid Up,New Car,11560,None,< 1yr,1,3,23,1,More than 1
+,Some Balance,18,some problems,Home Related,4165,None,< 1yr,2,3,36,2,More than 1
+,No Account,24,Paid Up,Used Car,4057,None,1 - 4yrs,3,3,43,2,1
+,Some Balance,18,some problems,Home Related,6458,None,4 - 7yrs,2,4,39,2,More than 1
+,No Account,36,Paid Up,Home Related,1977,100 - 1000,4 - 7yrs,4,4,40,2,1
+,No Account,24,Paid Up,Home Related,11328,None,< 1yr,2,3,29,2,More than 1
+,No Account,60,some problems,Home Related,14782,< 100,4 - 7yrs,3,4,60,3,More than 1
+,No Account,12,some problems,Home Related,626,None,< 1yr,4,1,24,2,1
+,No Account,36,Paid Up,Home Related,2302,None,< 1yr,4,3,31,1,1
+,No Account,12,Paid Up,Home Related,727,< 100,< 1yr,4,4,33,2,1
+,Some Balance,48,Paid Up,Home Related,3914,100 - 1000,< 1yr,4,1,38,2,1
+,No Account,12,Paid Up,Home Related,1534,None,< 1yr,1,1,23,1,1
+,Some Balance,15,No problems,Home Related,1271,100 - 1000,< 1yr,3,4,39,3,More than 1
+,No Account,12,Paid Up,Home Related,1295,None,< 1yr,3,3,25,1,1
+,No Account,12,Paid Up,Used Car,951,< 100,< 1yr,4,3,27,1,More than 1
+,No Account,48,Paid Up,Home Related,3051,None,< 1yr,3,3,54,2,1
+,Some Balance,18,Paid Up,Home Related,433,None,< 1yr,3,1,22,1,1
+,No Account,30,No problems,Home Related,5234,None,< 1yr,4,3,28,2,More than 1
+,No Account,9,Paid Up,Home Related,1366,None,< 1yr,3,2,22,1,1
+,No Account,18,Paid Up,Used Car,2473,None,< 1yr,4,3,25,2,1
+,No Account,48,Paid Up,Home Related,7763,None,4 - 7yrs,4,4,42,3,1
+,No Account,15,some problems,Home Related,1264,< 100,< 1yr,2,2,25,1,1
+,No Account,48,Paid Up,Home Related,6560,< 100,1 - 4yrs,3,2,24,2,1
+,No Account,24,Paid Up,Home Related,3123,None,< 1yr,4,2,27,2,1
+,No Account,36,No problems,New Car,9629,None,1 - 4yrs,4,3,24,2,More than 1
+,No Account,18,Paid Up,Used Car,1131,None,< 1yr,4,3,33,2,1
+,No Account,18,Paid Up,New Car,12976,None,< 1yr,3,4,38,3,1
+,No Account,27,Paid Up,Home Related,3915,None,< 1yr,4,3,36,2,1
+,No Account,12,Paid Up,Home Related,2579,None,< 1yr,4,1,33,2,1
+,No Account,18,Paid Up,Used Car,4153,None,< 1yr,2,3,42,2,1
+,No Account,18,some problems,Used Car,3114,None,< 1yr,1,2,26,1,1
+,No Account,18,No problems,Used Car,2124,None,< 1yr,4,1,24,1,More than 1
+,No Account,30,Paid Up,Used Car,2406,None,1 - 4yrs,4,1,23,1,1
+,No Account,24,No problems,Home Related,1333,None,< 1yr,4,1,43,3,More than 1
+,No Account,12,No problems,Home Related,691,None,4 - 7yrs,4,2,35,2,More than 1
+,No Account,42,No problems,Home Related,4370,None,1 - 4yrs,3,2,26,2,More than 1
+,No Account,24,some problems,Used Car,4110,None,4 - 7yrs,3,4,23,1,More than 1
+,No Account,18,Paid Up,Used Car,2462,None,< 1yr,2,3,22,2,1
+,No Account,12,Paid Up,Used Car,1282,None,< 1yr,2,3,20,1,1
+,No Account,12,some problems,Used Car,2969,None,< 1yr,4,2,25,1,More than 1
+,No Account,48,some problems,New Car,4605,None,4 - 7yrs,3,4,24,3,More than 1
+,No Account,48,No problems,New Car,6331,None,4 - 7yrs,4,4,46,3,More than 1
+,No Account,27,some problems,Home Related,5293,None,< 1yr,2,2,50,2,More than 1
+,No Account,21,No problems,Home Related,3414,None,< 1yr,2,2,26,2,More than 1
+,No Account,48,Paid Up,New Car,10297,None,1 - 4yrs,4,4,39,3,More than 1
+,No Account,48,some problems,Home Related,14421,None,< 1yr,2,3,25,2,1
+,No Account,18,No problems,Home Related,1056,None,4 - 7yrs,3,1,30,2,More than 1
+,No Account,12,Paid Up,Home Related,1372,None,1 - 4yrs,2,3,36,2,1
+,No Account,18,No problems,Home Related,884,None,4 - 7yrs,4,3,36,2,1
+,No Account,36,No problems,Home Related,8086,< 100,4 - 7yrs,2,3,42,2,More than 1
+,Some Balance,48,No problems,Home Related,10127,100 - 1000,< 1yr,2,4,44,3,1
+,No Account,36,Paid Up,Home Related,12389,100 - 1000,< 1yr,1,4,37,3,1
+,No Account,12,Paid Up,Home Related,709,None,4 - 7yrs,4,1,57,2,1
+,No Account,15,some problems,Home Related,6850,< 100,< 1yr,1,2,34,2,1
+,Some Balance,10,Paid Up,Used Car,2210,None,< 1yr,2,1,25,1,1
+,Some Balance,30,some problems,New Car,7485,100 - 1000,< 1yr,4,1,53,2,1
+,No Account,45,No problems,Home Related,4746,None,< 1yr,4,2,24,2,More than 1
+,Some Balance,12,No problems,Home Related,939,100 - 1000,1 - 4yrs,4,1,28,2,More than 1
+,Some Balance,48,No problems,New Car,11590,< 100,< 1yr,2,3,24,1,More than 1
+,Some Balance,12,some problems,Home Related,609,None,< 1yr,4,1,26,2,1
+,No Account,18,No problems,Home Related,1190,None,< 1yr,2,4,55,3,More than 1
+,No Account,21,Paid Up,Home Related,2767,< 100,4 - 7yrs,4,3,61,1,More than 1
+,No Account,30,Paid Up,Used Car,3441,< 100,< 1yr,2,3,21,1,1
+,Some Balance,18,Paid Up,Home Related,6761,100 - 1000,< 1yr,2,3,68,1,More than 1
+,No Account,54,some problems,Home Related,15945,None,< 1yr,3,4,58,1,1
+,No Account,24,Paid Up,Used Car,3234,None,< 1yr,4,1,23,1,1
+,No Account,15,Paid Up,Home Related,802,None,4 - 7yrs,4,3,37,2,1
+,No Account,21,some problems,Home Related,1647,100 - 1000,< 1yr,4,2,40,2,More than 1
+,No Account,27,some problems,Home Related,8318,None,4 - 7yrs,2,4,42,3,More than 1
+,No Account,6,Paid Up,Home Related,448,None,< 1yr,4,2,23,2,1
+,No Account,30,Paid Up,Home Related,11998,None,< 1yr,1,4,34,2,1
+,No Account,12,Paid Up,Used Car,2762,100 - 1000,4 - 7yrs,1,2,25,2,1
+,No Account,12,Paid Up,New Car,3386,None,4 - 7yrs,3,4,35,3,1
+,No Account,24,Paid Up,Home Related,2039,None,< 1yr,1,2,22,2,1
+,No Account,18,Paid Up,Home Related,1882,None,< 1yr,4,3,25,1,More than 1
+,No Account,48,Paid Up,Home Related,6999,None,1 - 4yrs,1,1,34,2,More than 1
+,No Account,18,Paid Up,Home Related,976,None,< 1yr,1,3,23,2,1
+,No Account,24,Paid Up,Home Related,2718,None,< 1yr,3,2,20,1,1
+,No Account,18,Paid Up,Home Related,750,None,< 1yr,4,1,27,2,1
+,No Account,18,No problems,Home Related,3966,None,4 - 7yrs,1,1,33,1,More than 1
+,No Account,12,some problems,Home Related,6199,None,< 1yr,4,2,28,1,More than 1
+,No Account,24,Paid Up,Home Related,1987,None,< 1yr,2,1,21,1,1
+,No Account,24,Paid Up,Home Related,2303,None,4 - 7yrs,4,1,45,2,1
+,No Account,30,Paid Up,Used Car,6350,100 - 1000,4 - 7yrs,4,2,31,2,1
