@@ -8,7 +8,7 @@ This is a sample of data science projects that have been conducted in various la
       
 
 # ARIMAX
-[ARIMAX Example](arimax.html) 
+[ARIMAX Example](arimax.tex) 
 
 # Random Forest 
 
