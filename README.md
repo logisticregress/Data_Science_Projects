@@ -8,7 +8,7 @@ This is a sample of data science projects that have been conducted in various la
       
 
 # ARIMAX R
-[ARIMAX Example](arimax.Rmd) 
+[ARIMAX Example](arimax.ipynb) 
 
 
 # Exploratory Factor Analysis and Clustering
