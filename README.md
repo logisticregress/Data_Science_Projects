@@ -10,6 +10,8 @@ This is a sample of data science projects that have been conducted in various la
 # ARIMAX R
 [ARIMAX Example](ARIMAX.ipynb) 
 
+# Bayesian Time Series R
+[Bayesian Time Series](Bayesiantimeseries.ipynb)
 
 # Exploratory Factor Analysis and Clustering
 
