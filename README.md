@@ -10,6 +10,11 @@ This is a sample of data science projects that have been conducted in various la
 # ARIMAX R
 [ARIMAX Example](arimax.Rmd) 
 
+
+# Exploratory Factor Analysis and Clustering
+
+
+
 # Random Forest 
 
 
