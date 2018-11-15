@@ -4,7 +4,7 @@ This is a sample of data science projects that have been conducted in various la
 
 # Bayesian Time Series Forecasting
 
-[time_series](time_series.ipynb)
+[time_series](timeseries.ipynb)
       
 
 # ARIMAX
