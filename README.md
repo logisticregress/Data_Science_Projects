@@ -14,6 +14,7 @@ This is a sample of data science projects that have been conducted in various la
 # Exploratory Factor Analysis and Clustering
 
 [EFA/Clustering Diabetes](diabetes_data_reduction_clustering.ipynb)
+
 ![clusterplot](data/d_cluster.png)
 
 # Random Forest 
