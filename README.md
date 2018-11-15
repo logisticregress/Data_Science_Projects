@@ -2,12 +2,12 @@
 
 This is a sample of data science projects that have been conducted in various languages, including R, Python, and SPSS.
 
-# Bayesian Time Series Forecasting
+# SARIMAX Python Time Series Forecasting
 
 [time_series](timeseries.ipynb)
       
 
-# ARIMAX
+# ARIMAX R
 [ARIMAX Example](arimax.Rmd) 
 
 # Random Forest 
