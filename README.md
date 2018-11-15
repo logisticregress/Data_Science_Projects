@@ -23,4 +23,5 @@ This is a sample of data science projects that have been conducted in various la
 
 [RandomForest in Python](RandomForest.ipynb)
 
-
+# Logistic Regression 
+[Logistic Regreesion(Logistic_Regression.ipynb)
