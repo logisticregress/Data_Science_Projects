@@ -3,9 +3,11 @@
 This is a sample of data science projects that have been conducted in various languages, including R, Python, and SPSS.  It is meant to provide a brief illustration of several concepts in applied statistical analysis and machine learning.  Where necessary, propriety data has been withheld or obscured.
 
 # SARIMAX Python Time Series Forecasting
-This is an example of using Seasonal ARIMAX (with exogenous predictors).  
+This is an example of using Seasonal ARIMAX (without exogenous predictors).  
 
 [time_series](timeseries.ipynb)
+
+![timeseriesplot](time_seriespy.png)
       
 
 # ARIMAX R
