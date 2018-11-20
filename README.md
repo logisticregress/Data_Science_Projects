@@ -1,6 +1,6 @@
 # Data Science and Statistical Analysis Projects
 
-This is a sample of data science projects that have been conducted in various languages, including R, Python, and SPSS.
+This is a sample of data science projects that have been conducted in various languages, including R, Python, and SPSS.  It is meant to provide a brief illustration of several concepts in applied statistical analysis and machine learning.  Where necessary, propriety data has been withheld or obscured.
 
 # SARIMAX Python Time Series Forecasting
 
