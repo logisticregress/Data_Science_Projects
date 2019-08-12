@@ -2,6 +2,12 @@
 
 This is a sample of data science projects that have been conducted in various languages, including R, Python, and SPSS.  It is meant to provide a brief illustration of several concepts in applied statistical analysis and machine learning.  Where necessary, propriety data has been withheld or obscured.
 
+# Shiny R Dashboard 
+Created a Shiny (R) dashboard that intakes a raw .csv file and allows the user to select variables to perform multivariate forecasting using both ARIMA and Bayesian algorithms. 
+[Multivaraite Time Series](http://ryanclukey.shinyapps.io/MV_forecast)
+
+# Tensorflow for Product Classification 
+
 # SARIMAX Python Time Series Forecasting
 This is an example of using Seasonal ARIMAX (without exogenous predictors).  
 
