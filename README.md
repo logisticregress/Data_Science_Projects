@@ -41,4 +41,4 @@ In this is similar to the previous analysis, however it was developed in R and i
 [RandomForest in Python](RandomForest.ipynb)
 
 # Logistic Regression 
-[Logistic Regreesion](Logistic_Regression.ipynb)
+[Logistic Regression](Logistic_Regression.ipynb)
