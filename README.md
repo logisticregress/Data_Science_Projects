@@ -18,7 +18,7 @@ This is an example of using Seasonal ARIMAX (without exogenous predictors).
 
 # Python Classification and Integration with SnowFlake 
 [snowflake connection] 
-[product classification] 
+[product classification](complete_500k_classification.ipynb) 
 
 
 
