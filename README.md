@@ -7,7 +7,7 @@ Created a Shiny (R) dashboard that intakes a raw .csv file and allows the user t
 [Multivaraite Time Series](http://ryanclukey.shinyapps.io/MV_forecast)
 
 # Tensorflow for Product Classification 
-[Neural Network Classification](Tensorflow 2.0 Experiment.ipynb)
+[Neural Network Classification](Tensorflow_Experiment.ipynb)
 
 
 # SARIMAX Python Time Series Forecasting
