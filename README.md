@@ -10,7 +10,7 @@ Created a Shiny (R) dashboard that intakes a raw .csv file and allows the user t
 [Neural Network Classification](Tensorflow_Experiment.ipynb)
 
 # PowerBI Dashboard
-
+![powerbi](sample_powerbi.PNG)
 
 
 # SARIMAX Python Time Series Forecasting
