@@ -17,13 +17,6 @@ This is an example of using Seasonal ARIMAX (without exogenous predictors).
 
 ![timeseriesplot](time_seriespy.png)
       
-
-# Python Classification and Integration with SnowFlake 
-[snowflake connection] 
-[product classification](complete_500k_classification.ipynb) 
-
-
-
 # ARIMAX R
 In this is similar to the previous analysis, however it was developed in R and is not a "seasonal" model.
 
