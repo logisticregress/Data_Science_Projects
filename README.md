@@ -6,9 +6,6 @@ This is a sample of data science projects that have been conducted in various la
 Created a Shiny (R) dashboard that intakes a raw .csv file and allows the user to select variables to perform multivariate forecasting using both ARIMA and Bayesian algorithms. 
 [Multivariate Time Series](http://ryanclukey.shinyapps.io/MV_forecast)
 
-# Tensorflow for Product Classification 
-[Neural Network Classification](Tensorflow_Experiment.ipynb)
-
 
 # SARIMAX Python Time Series Forecasting
 This is an example of using Seasonal ARIMAX (without exogenous predictors).  
