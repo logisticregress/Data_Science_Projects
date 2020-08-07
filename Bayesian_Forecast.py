@@ -56,7 +56,7 @@ def bayes_forecast(data, brand, Y, prior, var_names = [], forecast_start=None, f
 def future(mod, h, date):
     b_samples = mod.forecast_path(h, nsamps=2000)
     b_forecast = median(b_samples)
-    f_date = pd.date_range(start=dates.max(), freq='W', periods=h)
+    f_date = pd.date_range(start=(dates.max()+pd.DateOffset(1)), freq='D', periods=h)
     # set confidence interval
     credible_interval=95
     alpha = (100-credible_interval)/2
