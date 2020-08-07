@@ -49,3 +49,33 @@ def bayes_forecast(data, brand, Y, prior, var_names = [], forecast_start=None, f
         return mod, samples, Y[forecast_start:forecast_end+1], date, prior_length, lower, upper
 
     forecast = median(samples)
+
+        
+        
+        
+def future(mod, h, date):
+    b_samples = mod.forecast_path(h, nsamps=2000)
+    b_forecast = median(b_samples)
+    f_date = pd.date_range(start=dates.max(), freq='W', periods=h)
+    # set confidence interval
+    credible_interval=95
+    alpha = (100-credible_interval)/2
+    b_upper=np.percentile(b_samples, [100-alpha], axis=0).reshape(-1)
+    b_lower=np.percentile(b_samples, [alpha], axis=0).reshape(-1)
+    
+    return f_date, b_forecast, b_lower, b_upper 
+
+
+def f_plot():
+    fig = plt.figure(figsize=(18, 12))
+    fig.suptitle('Bayesian Forecast Showing'+' '+str(h)+' '+'Month Forecast for '+brand, fontsize=20)
+    plt.title('MAPE: '+str(mape), fontsize=16)
+    plt.plot(dates[pl:], forecast[pl:], c='blue', linewidth=.5, linestyle='--')
+    plt.plot(dates[pl:], Y_plot[pl:], c='black', linewidth=.5)
+    plt.plot(f_date, b_forecast, c='blue')
+    plt.fill_between(dates[pl:], lower[pl:], upper[pl:], color='blue', alpha=.1)
+    plt.fill_between(f_date, b_lower, b_upper, color='blue', alpha=.33)
+    plt.xlabel('date', fontsize=16)
+    plt.ylabel(y+' Score', fontsize=16)
+        
+        
