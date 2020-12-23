@@ -12,7 +12,7 @@ Created a Shiny (R) dashboard that intakes a raw .csv file and allows the user t
 
 # Generalized Low Rank Model for Mixed Data Clustering
 This is an example of R Code which applies numerous statistical functions to prepare mixed Survey data for clustering
-[GLrM](/Forecasting/GLRM_R_Segmentation.ipynb)
+[GLRM](Forecasting/GLRM_R_Segmentation.ipynb)
 
 
 # SARIMAX Python Time Series Forecasting
