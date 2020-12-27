@@ -42,22 +42,7 @@ This is an example of R Code which applies numerous statistical functions to pre
 ![glrm](images/glrm_kmeans.PNG)
 
 
-# Forecasting and Time Series 
 
-## SARIMAX Python Time Series Forecasting
-This is an example of using Seasonal ARIMAX (without exogenous predictors).  
-
-[time_series](R/timeseries.ipynb)
-
-![timeseriesplot](images/time_seriespy.png)
-      
-## ARIMAX R
-In this is similar to the previous analysis, however it was developed in R and is not a "seasonal" model.
-
-[ARIMAX Example](R/ARIMAX.ipynb) 
-
-## Bayesian Time Series R
-[Bayesian Time Series](R/Bayesiantimeseries.ipynb)
 
 
 
