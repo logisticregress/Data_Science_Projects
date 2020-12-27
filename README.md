@@ -5,7 +5,8 @@ This is a sample of data science projects that have been conducted in various la
 # Python 
 A collection of Data Science projects using Python
 
-## Looker Dashboard
+## Looker Dashboard for E-commerce Store
+[LTV and Forecasting](LTV_Forecast_v2.ipynb)
 ![Looker Dashboard](images/Looker_Dashboard.png)
 
 
