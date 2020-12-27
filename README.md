@@ -6,25 +6,25 @@ This is a sample of data science projects that have been conducted in various la
 A collection of Data Science projects using Python
 
 ## Looker Dashboard for E-commerce Store
-[LTV and Forecasting](LTV_Forecast_v2.ipynb)
+[LTV and Forecasting](Python/LTV_Forecast_v2.ipynb)
 ![Looker Dashboard](images/Looker_Dashboard.png)
 
 
 ## Record Matching / Entity Resolution
-[Record Matching](Record_matching.py)
+[Record Matching](Python/Record_matching.py)
 
 ## Exploratory Factor Analysis and Clustering
 
-[EFA/Clustering Diabetes](diabetes_data_reduction_clustering.ipynb)
+[EFA/Clustering Diabetes](Python/diabetes_data_reduction_clustering.ipynb)
 
 ![clusterplot](data/d_cluster.png)
 
 ## Random Forest 
 
-[RandomForest in Python](RandomForest.ipynb)
+[RandomForest in Python](Python/RandomForest.ipynb)
 
 ## Logistic Regression 
-[Logistic Regression](Logistic_Regression.ipynb)
+[Logistic Regression](Python/Logistic_Regression.ipynb)
 
 
 
@@ -46,17 +46,17 @@ This is an example of R Code which applies numerous statistical functions to pre
 ## SARIMAX Python Time Series Forecasting
 This is an example of using Seasonal ARIMAX (without exogenous predictors).  
 
-[time_series](timeseries.ipynb)
+[time_series](R/timeseries.ipynb)
 
 ![timeseriesplot](images/time_seriespy.png)
       
 ## ARIMAX R
 In this is similar to the previous analysis, however it was developed in R and is not a "seasonal" model.
 
-[ARIMAX Example](ARIMAX.ipynb) 
+[ARIMAX Example](R/ARIMAX.ipynb) 
 
 ## Bayesian Time Series R
-[Bayesian Time Series](Bayesiantimeseries.ipynb)
+[Bayesian Time Series](R/Bayesiantimeseries.ipynb)
 
 
 
