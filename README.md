@@ -6,7 +6,11 @@ This is a sample of data science projects that have been conducted in various la
 A collection of Data Science projects using Python
 
 ## Looker Dashboard
-![Looker Dashboard](Looker_Dashboard.png)
+![Looker Dashboard](images/Looker_Dashboard.png)
+
+
+## Record Matching / Entity Resolution
+[Record Matching](Record_matching.py)
 
 ## Exploratory Factor Analysis and Clustering
 
@@ -43,7 +47,7 @@ This is an example of using Seasonal ARIMAX (without exogenous predictors).
 
 [time_series](timeseries.ipynb)
 
-![timeseriesplot](time_seriespy.png)
+![timeseriesplot](images/time_seriespy.png)
       
 ## ARIMAX R
 In this is similar to the previous analysis, however it was developed in R and is not a "seasonal" model.
