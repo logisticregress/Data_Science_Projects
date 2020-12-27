@@ -1,6 +1,6 @@
 # Data Science and Statistical Analysis Projects
 
-This is a sample of data science projects that have been conducted in various languages, including R, Python, and SPSS.  It is meant to provide a brief illustration of several concepts in applied statistical analysis and machine learning.  Where necessary, propriety data has been withheld or obscured.
+This is a sample of data science projects using both R and Python, which cover a range of predictive modeling and exploratory analysis methods.  
 
 # Python 
 A collection of Data Science projects using Python
