@@ -10,7 +10,7 @@ A collection of Data Science projects using Python
 
 
 ## Record Matching / Entity Resolution
-![](Record_matching.py)
+![Record Matching](Record_matching.py)
 
 ## Exploratory Factor Analysis and Clustering
 
