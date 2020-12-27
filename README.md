@@ -1,6 +1,6 @@
 # Data Science and Statistical Analysis Projects
 
-This is a sample of data science projects that have been conducted in various languages, including R, Python, and SPSS.  It is meant to provide a brief illustration of several concepts in applied statistical analysis and machine learning.  Where necessary, propriety data has been withheld or obscured.
+This is a sample of data science projects using both R and Python, which cover a range of predictive modeling and exploratory analysis methods.  
 
 # Python 
 A collection of Data Science projects using Python
@@ -39,24 +39,10 @@ Created a Shiny (R) dashboard that intakes a raw .csv file and allows the user t
 ## Generalized Low Rank Model for Mixed Data Clustering
 This is an example of R Code which applies numerous statistical functions to prepare mixed Survey data for clustering
 [GLRM](GLRM/GLRM_R_Segmentation.ipynb)
+![glrm](images/glrm_kmeans.PNG)
 
 
-# Forecasting and Time Series 
 
-## SARIMAX Python Time Series Forecasting
-This is an example of using Seasonal ARIMAX (without exogenous predictors).  
-
-[time_series](R/timeseries.ipynb)
-
-![timeseriesplot](images/time_seriespy.png)
-      
-## ARIMAX R
-In this is similar to the previous analysis, however it was developed in R and is not a "seasonal" model.
-
-[ARIMAX Example](R/ARIMAX.ipynb) 
-
-## Bayesian Time Series R
-[Bayesian Time Series](R/Bayesiantimeseries.ipynb)
 
 
 
