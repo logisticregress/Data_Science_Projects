@@ -19,10 +19,10 @@
 
 ########################################################################
 ## this is the code to copy the file to the EC2 instance:
-## scp -P 19022 -i /users/ryanclukey/ec2-householding.pem /users/ryanclukey/documents/python_projects/Record_Matching/Householding_python_v2.py ec2-user@ec2-18-237-15-188.us-west-2.compute.amazonaws.com:
+## scp -P 19022 -i /users/ryanclukey/ec2-householding.pem /users/ryanclukey/documents/python_projects/Record_Matching/Householding_python_v2.py ...:
 
 # for the .YML file
-## scp -P 19022 -i /users/ryanclukey/ec2-householding.pem /users/ryanclukey/documents/python_projects/Record_Matching/python_db.yml ec2-user@ec2-18-237-15-188.us-west-2.compute.amazonaws.com:
+## scp -P 19022 -i /users/ryanclukey/ec2-householding.pem /users/ryanclukey/documents/python_projects/Record_Matching/python_db.yml ...:
 
 
 #This method uses de-duplication algorithms which are part of the Python 
@@ -65,20 +65,7 @@ parser.add_argument("account", help="Snowflake needs the account name... ",type=
 parser.add_argument("warehouse", help="choose the warehouse name... ",type=str)
 args = parser.parse_args()
 
-
-
-
-# REDSHIFT
-#python3 Householding_python_v2.py redshift iarz4h2pxwyf daasity.cf3oi3jcfp1f.us-west-2.redshift.amazonaws.com 5439 amour_vert_services eL4G2pdLhnRQLXh7HnqxoDPA daasity load_wh
-
-
-#SNOWFLAKE 
-#python3 Householding_python_v2.py snowflake hhmsa6j3fshxb6cuczzc daasity.snowflakecomputing.com 443 hhmsa6j3fshxb6cuczzc_services tB2RkUMEoFN4VwSAFgqDiNrn daasity load_wh
-
-#U Beauty
-#python3 Householding_python_v2.py snowflake rnwlzrqdeisf2ikpuzcb daasity.snowflakecomputing.com 443 rnwlzrqdeisf2ikpuzcb_services beLLvCM8CieE5P3Qq7jSLgVJ daasity load_wh
-
-
+# Server Credentials...
 
 
 # The main dedupe function that runs all the sub functions. This also determines if the main dedupe should 
@@ -204,8 +191,7 @@ def match_data_chunk(df, s):
         pdm = dupe_features[dupe_features.sum(axis=1) > 2].reset_index()  #this limits the dataset to rows that had more than 2 matched columns
         pdm['score'] = pdm.loc[:, 'email_cl':'phone_cl'].sum(axis=1) #this sums the columns and creates a "score" column 
         pdm['duplicate'] = np.where((pdm['email_cl'] == 1) | (pdm['first_name_cl'] == 1 |  (pdm['last_name_cl'] == 1)) & ((pdm['score'] > 3) | (pdm['phone_cl'] + pdm['zip_cl'] == 2)),1,0) #creates an indicator based on the threshold rule of > 2 matches (1=yes, 0=no)
-        #pdm.sort_values(by=['score'], ascending=False)
-
+        
         ne = pdm[pdm['duplicate']==1] #filter out non-matching rows
         ne.sort_values(by=['score'], ascending=False) #sort the results by the score column 
 
@@ -227,12 +213,10 @@ def merge_sets(df, matches, dupes):
     
     #create a merged dataframe of customer ids and emails
     merged_df = pd.merge(cid, df_email, left_on='customer_id_1', right_on='customer_id', how='left')
-    #merged_df.to_excel('matches.xlsx')
     # create two lists from each column.  they need to have the columns renamed in order for the concatenate to work 
     c_id1 = merged_df[['customer_id_1', 'email']].rename({'customer_id_1': 'id', 'email': 'email'}, axis=1)
     c_id2 = merged_df[['customer_id_2', 'email']].rename({'customer_id_2': 'id', 'email': 'email'}, axis=1)
     c_all = pd.concat([c_id1, c_id2], sort=False)
-    #c_all.to_excel('c_all.xlsx') #export matched records to Excel for inspection (turn this off in final code!!)
     c_all_deduped = c_all.drop_duplicates(['id'], keep='last').rename({'id': 'customer_id', 'email': 'email'}, axis=1)
     temp = df_email[~df_email['customer_id'].isin(c_all_deduped['customer_id'])] #removes matching records matching the deduped list
     y = temp.append(c_all_deduped) #append the new dataframe to the existing one (with original cases removed)
