@@ -8,6 +8,10 @@ A collection of Data Science projects using Python
 ## Looker Dashboard
 ![Looker Dashboard](images/Looker_Dashboard.png)
 
+
+## Record Matching / Entity Resolution
+![](Record_matching.py)
+
 ## Exploratory Factor Analysis and Clustering
 
 [EFA/Clustering Diabetes](diabetes_data_reduction_clustering.ipynb)
