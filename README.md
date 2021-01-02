@@ -10,6 +10,10 @@ A collection of Data Science projects using Python
 ![Looker Dashboard](images/Looker_Dashboard.png)
 
 
+## LSTM Forecasting for Futures Commodity 
+An example of using LSTM for time series / forecasting. 
+[LSTM](Python/LSTM_NN_Forecasting.ipynb)
+
 ## Record Matching / Entity Resolution
 [Record Matching](Python/Record_matching.py)
 
