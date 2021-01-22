@@ -14,6 +14,11 @@ A collection of Data Science projects using Python
 An example of using LSTM for time series / forecasting. 
 [LSTM](Python/LSTM_NN_Forecasting.ipynb)
 
+## Sample Dash App for Bayesian Forecasting
+An example of a Python App deployed using Dash to AWS - integration with PostGres SQL Database and S3 Storage Bucket
+[Dash App](Forecasting/bayesian_forecast_dash_app.py)
+![App_dashboard](images/bayesian_times_series.PNG)
+
 ## Record Matching / Entity Resolution
 [Record Matching](Python/Record_matching.py)
 
