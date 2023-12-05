@@ -5,6 +5,12 @@ This is a sample of data science projects using both R and Python, which cover a
 # Python 
 A collection of Data Science projects using Python
 
+## Generalized Low Rank Model for Mixed Data Clustering
+This is an example of R Code which applies numerous statistical functions to prepare mixed Survey data for clustering
+[GLRM](GLRM/GLRM_R_Segmentation.ipynb)
+![glrm](images/glrm_kmeans.PNG)
+
+
 ## Looker Dashboard for E-commerce Store
 [LTV and Forecasting](Python/LTV_Forecast_v2.ipynb)
 ![Looker Dashboard](images/Looker_Dashboard.png)
@@ -45,10 +51,6 @@ Created a Shiny (R) dashboard that intakes a raw .csv file and allows the user t
 [Multivariate Time Series](http://ryanclukey.shinyapps.io/MV_forecast)
 
 
-## Generalized Low Rank Model for Mixed Data Clustering
-This is an example of R Code which applies numerous statistical functions to prepare mixed Survey data for clustering
-[GLRM](GLRM/GLRM_R_Segmentation.ipynb)
-![glrm](images/glrm_kmeans.PNG)
 
 
 
