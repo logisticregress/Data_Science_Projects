@@ -5,6 +5,10 @@ This is a sample of data science projects using both R and Python, which cover a
 # Python 
 A collection of Data Science projects using Python
 
+## Bayesian Time Series Forecasting
+This is a Dash application built in Python which predicts customer KPIs based on selected brand equity metrics as a time series.
+![forecasting](images/bera_bayesian_forecasting_dash.png)
+
 ## Generalized Low Rank Model for Mixed Data Clustering
 This is an example of R Code which applies numerous statistical functions to prepare mixed Survey data for clustering
 [GLRM](GLRM/GLRM_R_Segmentation.ipynb)
