@@ -12,6 +12,7 @@ This is a sample of data science projects using Python and R that cover a range 
 ## Time Series
 
 ### Bayesian Time Series Forecasting
+> **Keywords:** Forecasting | Bayesian | Dynamic Linear Models <br>
 This is a Dash application built in Python which predicts customer KPIs based on selected brand equity metrics as a time series.
 ![forecasting](images/bera_bayesian_forecasting_dash.png)
 
