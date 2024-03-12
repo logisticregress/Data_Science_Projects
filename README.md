@@ -8,9 +8,6 @@ This is a sample of data science projects using Python and R that cover a range 
 [Bayesian Belief Networks](#Bayesian-Belief-Networks) <br>
 
 
-# Python 
-A collection of Data Science projects using Python
-
 # Time Series
 
 ## Bayesian Time Series Forecasting
