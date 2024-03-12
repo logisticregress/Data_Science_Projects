@@ -5,6 +5,7 @@ This is a sample of data science projects using Python and R that cover a range 
 ## Contents
 [Time Series and Forecasting](#Time-Series) <br>
 [Deep Learning](#Deep-Learning) <br>
+[Structural Equation Models](#Structural-Equation-Models) <br>
 [Bayesian Belief Networks](#Bayesian-Belief-Networks) <br>
 
 
@@ -37,6 +38,9 @@ An example of a Python App deployed using Dash to AWS - integration with PostGre
 
 
 # Bayesian Belief Networks
+
+
+# Structural Equation Models
 
 
 ## Record Matching / Entity Resolution
