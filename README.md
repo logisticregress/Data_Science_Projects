@@ -12,7 +12,11 @@ This is a sample of data science projects using Python and R that cover a range 
 [Bayesian Belief Networks](#Bayesian-Belief-Networks) <br>
 
 
-## GenAI 
+## GenAI
+A collection of GenAI / LLM Projects illustrating key ML concepts such as RAG, Prompt Engineering, Fine Tuning, etc. <br>
+
+### RAG with ChatGPT
+### RAG with Llama2
 
 ## Time Series and Forecasting
 
