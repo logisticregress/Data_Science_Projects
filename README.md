@@ -5,6 +5,8 @@ This is a sample of data science projects using Python and R that cover a range 
 ## Articles and Papers
 [Towards Data Science: Bayesian Forecasting with Pybats](https://towardsdatascience.com/forecasting-with-bayesian-dynamic-generalized-linear-models-in-python-865587fbaf90)
 <br>
+[Generalized Low Rank Models](documents/Analysis-of-Mixed-Data-Sets.pdf)
+<br>
 
 ## Table of Contents
 [GenerativeAI and LLMs](#GenAI) <br>
