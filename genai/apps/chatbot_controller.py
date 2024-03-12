@@ -44,7 +44,6 @@ def run_chatbot(n_clicks, n_submit, user_input, chat_history):
     
     chat_history += f"Human: {user_input}<split>ChatBot: "
     
-    #result_ai = conversation.predict(input=user_input)
     response = index.query(user_input, response_mode="tree_summarize")
 
     result_ai = response.response
