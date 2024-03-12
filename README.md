@@ -5,7 +5,7 @@ This is a sample of data science projects using Python and R that cover a range 
 ### Table of Contents
 [GenerativeAI and LLMs](#GenAI) <br>
 [Time Series and Forecasting](#Time-Series) <br>
-  * [Brand Equity](#Bayesian-Time-Series-Forecasting) <br>
+&emsp;&nbsp[Brand Equity](#Bayesian-Time-Series-Forecasting) <br>
 [Deep Learning](#Deep-Learning) <br>
 [Structural Equation Models](#Structural-Equation-Models) <br>
 [Bayesian Belief Networks](#Bayesian-Belief-Networks) <br>
