@@ -3,9 +3,9 @@
 This is a sample of data science projects using Python and R that cover a range of predictive modeling and exploratory analysis methods.  
 
 ## Contents
-[Time Series and Forecasting](#Time-Series) /n
-[Deep Learning](#Deep-Learning) /n
-[Bayesian Belief Networks](#Bayesian-Belief-Networks) /n
+[Time Series and Forecasting](#Time-Series) \n
+[Deep Learning](#Deep-Learning) \n
+[Bayesian Belief Networks](#Bayesian-Belief-Networks) \n
 
 
 # Python 
