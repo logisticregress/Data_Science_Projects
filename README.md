@@ -6,7 +6,7 @@ This is a sample of data science projects using Python and R that cover a range 
 [Towards Data Science: Bayesian Forecasting with Pybats](https://towardsdatascience.com/forecasting-with-bayesian-dynamic-generalized-linear-models-in-python-865587fbaf90)
 <br>
 
-### Table of Contents
+## Table of Contents
 [GenerativeAI and LLMs](#GenAI) <br>
 [Time Series and Forecasting](#Time-Series) <br>
 &emsp;[Bayesian Forecasting](#Bayesian-Time-Series-Forecasting) <br>
