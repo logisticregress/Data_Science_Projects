@@ -15,7 +15,6 @@ This is a sample of data science projects using Python and R that cover a range 
 [Structural Equation Models](#Structural-Equation-Models) <br>
 [Bayesian Belief Networks](#Bayesian-Belief-Networks) <br>
 <br>
-[Articles and Papers](#Articles-and-Papers)<br>
 
 
 ## GenAI
