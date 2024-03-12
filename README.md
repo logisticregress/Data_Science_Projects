@@ -5,7 +5,8 @@ This is a sample of data science projects using Python and R that cover a range 
 ### Table of Contents
 [GenerativeAI and LLMs](#GenAI) <br>
 [Time Series and Forecasting](#Time-Series) <br>
-&emsp;[Brand Equity](#Bayesian-Time-Series-Forecasting) <br>
+&emsp;[Bayesian Forecasting](#Bayesian-Time-Series-Forecasting) <br>
+&emsp;[E-commerce Forecasting](#E-Commerce-Forecasting) <br>
 [Deep Learning](#Deep-Learning) <br>
 [Structural Equation Models](#Structural-Equation-Models) <br>
 [Bayesian Belief Networks](#Bayesian-Belief-Networks) <br>
@@ -22,15 +23,17 @@ This is a sample of data science projects using Python and R that cover a range 
 This is a Dash application built in Python which predicts customer KPIs based on selected brand equity metrics as a time series.
 <img src="images/bera_bayesian_forecasting_dash.png" width="300" height="280">
 
+### E-Commerce Forecasting
+[LTV and Forecasting](Python/LTV_Forecast_v2.ipynb)
+![Looker Dashboard](images/Looker_Dashboard.png)
+
 ### Generalized Low Rank Model for Mixed Data Clustering
 This is an example of R Code which applies numerous statistical functions to prepare mixed Survey data for clustering
 [GLRM](GLRM/GLRM_R_Segmentation.ipynb)
 ![glrm](images/glrm_kmeans.PNG)
 
 
-### Looker Dashboard for E-commerce Store
-[LTV and Forecasting](Python/LTV_Forecast_v2.ipynb)
-![Looker Dashboard](images/Looker_Dashboard.png)
+
 
 # Deep Learning
 
