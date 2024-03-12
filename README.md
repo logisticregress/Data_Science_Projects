@@ -1,6 +1,6 @@
 # Machine Learning Engineering Portfolio
 
-This is a sample of data science projects using Python and R that cover a range of predictive modeling and exploratory analysis methods.<br>
+This is a sample of Machine Learning and Data Science projects using Python and R that cover a range of predictive modeling and exploratory analysis methods.<br>
 
 ## Articles and Papers
 [Towards Data Science: Bayesian Forecasting with Pybats](https://towardsdatascience.com/forecasting-with-bayesian-dynamic-generalized-linear-models-in-python-865587fbaf90)
