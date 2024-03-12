@@ -4,12 +4,14 @@ This is a sample of data science projects using Python and R that cover a range 
 
 ## Contents
 [Time Series and Forecasting](#Time-Series)
+[Deep Learning](#Deep-Learning)
+[Bayesian Belief Networks](#Bayesian-Belief-Networks)
 
 
 # Python 
 A collection of Data Science projects using Python
 
-#Time Series
+# Time Series
 
 ## Bayesian Time Series Forecasting
 This is a Dash application built in Python which predicts customer KPIs based on selected brand equity metrics as a time series.
@@ -25,6 +27,7 @@ This is an example of R Code which applies numerous statistical functions to pre
 [LTV and Forecasting](Python/LTV_Forecast_v2.ipynb)
 ![Looker Dashboard](images/Looker_Dashboard.png)
 
+# Deep Learning
 
 ## LSTM Forecasting for Futures Commodity 
 An example of using LSTM for time series / forecasting. 
@@ -34,6 +37,10 @@ An example of using LSTM for time series / forecasting.
 An example of a Python App deployed using Dash to AWS - integration with PostGres SQL Database and S3 Storage Bucket
 [Dash App](Forecasting/bayesian_forecast_dash_app.py)
 ![App_dashboard](images/bayesian_times_series.PNG)
+
+
+# Bayesian Belief Networks
+
 
 ## Record Matching / Entity Resolution
 [Record Matching](Python/Record_matching.py)
