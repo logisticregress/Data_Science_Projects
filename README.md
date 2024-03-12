@@ -20,7 +20,8 @@ This is a sample of data science projects using Python and R that cover a range 
 > [View Source](Forecasting/bayesian_forecast_dash_app.py)<br>
 
 This is a Dash application built in Python which predicts customer KPIs based on selected brand equity metrics as a time series.
-![forecasting](images/bera_bayesian_forecasting_dash.png)
+<img src="images/bera_bayesian_forecasting_dash.png" width="150" height="280">
+//![forecasting](images/bera_bayesian_forecasting_dash.png)
 
 ### Generalized Low Rank Model for Mixed Data Clustering
 This is an example of R Code which applies numerous statistical functions to prepare mixed Survey data for clustering
