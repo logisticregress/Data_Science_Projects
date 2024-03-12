@@ -21,7 +21,8 @@ This is a sample of data science projects using Python and R that cover a range 
 > [View Source](Forecasting/bayesian_forecast_dash_app.py)<br>
 
 This application was built using Plotly Dash.  The application uses a Dynamlic Regression algorithm to predict a user-selected KPI (i.e. Sales) from a given Brand Equity metric. 
-The API automatically checks for correlated lags up to 12 months, then returns the best Cross-Correlation structure to be used in subsequent multivariate forecasting.<br>
+The API automatically checks for correlated lags up to 12 months, then returns the best Cross-Correlation structure to be used in subsequent multivariate forecasting.
+The user is able to simulate changes to the predictor variables in real-time.  Manipulating the brand equity score value has will show the effect on the KPI forecast in real time.<br>
 <img src="images/bera_bayesian_forecasting_dash.png" width="300" height="280">
 
 ### E-Commerce Forecasting
