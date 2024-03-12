@@ -10,6 +10,8 @@ This is a sample of data science projects using Python and R that cover a range 
 [Deep Learning](#Deep-Learning) <br>
 [Structural Equation Models](#Structural-Equation-Models) <br>
 [Bayesian Belief Networks](#Bayesian-Belief-Networks) <br>
+<br>
+[Articles and Papers](#Articles-and-Papers)<br>
 
 
 ## GenAI
@@ -86,7 +88,8 @@ Created a Shiny (R) dashboard that intakes a raw .csv file and allows the user t
 
 
 
-
+#Articles and Papers
+(src="https://towardsdatascience.com/forecasting-with-bayesian-dynamic-generalized-linear-models-in-python-865587fbaf90")
 
 
 
