@@ -13,7 +13,7 @@ This is a sample of data science projects using Python and R that cover a range 
 
 ## GenAI 
 
-## Time Series
+## Time Series and Forecasting
 
 ### Bayesian Time Series Forecasting
 > **Keywords:** Forecasting | Bayesian | Dynamic Linear Models<br>
