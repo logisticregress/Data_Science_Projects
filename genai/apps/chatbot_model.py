@@ -34,28 +34,3 @@ def create_index(directory_path):
         print(f"Error saving index to disk: {e}")
     
     return index
-
-
-#response = index.query(input_text, response_mode="tree_summarize")
-
-# chat = OpenAI(temperature=0)
-
-# conversation = ConversationChain(
-#     llm=chat, 
-#     verbose=True,
-#     memory=ConversationBufferMemory()
-# )
-
-
-
-
-
-
-# def chat(n_clicks, input_text):
-    
-#     if not input_text:
-#         return dash.no_update
-#     else:
-#         index = GPTSimpleVectorIndex.load_from_disk('index.json')
-#         response = index.query(input_text, response_mode="tree_summarize")
-#     return response.response
