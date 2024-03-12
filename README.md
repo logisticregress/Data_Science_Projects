@@ -88,8 +88,8 @@ Created a Shiny (R) dashboard that intakes a raw .csv file and allows the user t
 
 
 
-#Articles and Papers
-(src="https://towardsdatascience.com/forecasting-with-bayesian-dynamic-generalized-linear-models-in-python-865587fbaf90")
+# Articles and Papers
+[Towards Data Science: Bayesian Forecasting with Pybats](src="https://towardsdatascience.com/forecasting-with-bayesian-dynamic-generalized-linear-models-in-python-865587fbaf90")
 
 
 
