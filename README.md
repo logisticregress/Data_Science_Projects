@@ -17,8 +17,8 @@ This is a sample of data science projects using Python and R that cover a range 
 ## Time Series and Forecasting
 
 ### Bayesian Time Series Forecasting
-> **Keywords: ** Forecasting  |  Bayesian  |  Dynamic Linear Models  |  Dash  |  Plotly <br>
-> **Code: **[View Source](Forecasting/bayesian_forecast_dash_app.py)<br>
+> **Keywords:** Forecasting  |  Bayesian  |  Dynamic Linear Models  |  Dash  |  Plotly <br>
+> **Code:**[View Source](Forecasting/bayesian_forecast_dash_app.py)<br>
 
 This application was built using Plotly Dash.  The application uses a Dynamlic Regression algorithm to predict a user-selected KPI (i.e. Sales) from a given Brand Equity metric. 
 The API automatically checks for correlated lags up to 12 months, then returns the best Cross-Correlation structure to be used in subsequent multivariate forecasting.
