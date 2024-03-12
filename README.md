@@ -1,9 +1,15 @@
-# Data Science and Statistical Analysis Projects
+# Machine Learning Engineering Portfolio
 
-This is a sample of data science projects using both R and Python, which cover a range of predictive modeling and exploratory analysis methods.  
+This is a sample of data science projects using Python and R that cover a range of predictive modeling and exploratory analysis methods.  
+
+## Contents
+[Time Series and Forecasting](#Time-Series)
+
 
 # Python 
 A collection of Data Science projects using Python
+
+#Time Series
 
 ## Bayesian Time Series Forecasting
 This is a Dash application built in Python which predicts customer KPIs based on selected brand equity metrics as a time series.
